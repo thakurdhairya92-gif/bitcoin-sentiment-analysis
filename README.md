@@ -1,3 +1,4 @@
+ HEAD
 # Bitcoin Sentiment Analysis
 
 This project analyzes the relationship between Bitcoin market sentiment and trader performance using Hyperliquid historical trading data and the Fear & Greed Index.
@@ -56,3 +57,7 @@ outputs/ -> charts and reports
 ## Conclusion
 
 Market sentiment significantly impacts trader behavior and profitability. Understanding emotional market cycles can improve trading strategies and risk management.
+
+# bitcoin-sentiment-analysis
+An end-to-end data analysis project focused on Bitcoin market sentiment, trader insights, and visual analytics using Python.
+8a76ba25ea220aa18d4b85259931229c9f8a0d25
