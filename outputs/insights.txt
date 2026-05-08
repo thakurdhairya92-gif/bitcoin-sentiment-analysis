@@ -1,0 +1,9 @@
+1. Market sentiment strongly affects trading behavior.
+
+2. Greed periods show increased trading activity.
+
+3. Fear periods indicate cautious trader participation.
+
+4. Closed PnL values become volatile during extreme market conditions.
+
+5. Emotional trading patterns significantly impact profitability.
