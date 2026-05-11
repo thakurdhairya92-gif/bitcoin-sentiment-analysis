@@ -58,6 +58,7 @@ outputs/ -> charts and reports
 
 Market sentiment significantly impacts trader behavior and profitability. Understanding emotional market cycles can improve trading strategies and risk management.
 
-# bitcoin-sentiment-analysis
+
+
 An end-to-end data analysis project focused on Bitcoin market sentiment, trader insights, and visual analytics using Python.
-8a76ba25ea220aa18d4b85259931229c9f8a0d25
+
